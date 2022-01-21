@@ -1,0 +1,3 @@
+1 : Mot de - de 5 lettres différentes
+2 : Mot de - de 7 lettres différentes
+3 : Mot de - de 10 lettres différentes
