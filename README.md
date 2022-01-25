@@ -2,7 +2,7 @@
 
 ---
 
-![Work in progress](https://img.shields.io/badge/-Work%20In%20Progress-red?style=flat-square) ![Language](https://img.shields.io/badge/Language-C++-blue?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/CreatibOfficiel/HangmanConnected?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/CreatibOfficiel/HangmanConnected?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CreatibOfficiel/HangmanConnected?style=flat-square)
+![Language](https://img.shields.io/badge/Language-C++-blue?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/CreatibOfficiel/HangmanConnected?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/CreatibOfficiel/HangmanConnected?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CreatibOfficiel/HangmanConnected?style=flat-square)
 
 _[EN]_
 
