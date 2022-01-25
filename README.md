@@ -14,11 +14,11 @@ The project is developed in C++ and there is no graphical interface.
 
 ## Game
 
-At the start of the server, you can choose to take a word : 
-1 - Easy Difficulty
-2 - Of Medium Difficulty
-3 - Of Hard Difficulty
-4 - Of Your Mind (You will then be asked to write it down)
+At the start of the server, you can choose to take a word :</br>
+1 - Easy Difficulty : Word of - 5 different letters</br>
+2 - Of Medium Difficulty : Word of - 7 different letters</br>
+3 - Of Hard Difficulty : Word of - 10 different letters</br>
+4 - Of Your Mind (You will then be asked to write it down)</br>
 
 The customer will receive a message each time with his progress in the hangman game.
 
@@ -34,11 +34,11 @@ Le projet est développé en C++ et il n'y a pas d'interface graphique.
 
 ## Jeu
 
-Au début du serveur, vous pouvez choisir de prendre un mot : 
-1 - De difficulté facile
-2 - De difficulté moyenne
-3 - De difficulté difficile
-4 - De votre choix (il vous sera alors demandé de l'écrire)
+Au début du serveur, vous pouvez choisir de prendre un mot :</br>
+1 - De difficulté facile : Mot de - de 5 lettres différentes</br>
+2 - De difficulté moyenne : Mot de - de 7 lettres différentes</br>
+3 - De difficulté difficile : Mot de - de 10 lettres différentes</br>
+4 - De votre choix (il vous sera alors demandé de l'écrire)</br>
 
 Le client recevra à chaque fois un message avec sa progression dans le jeu du pendu.
 
