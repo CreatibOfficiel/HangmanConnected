@@ -34,7 +34,7 @@ Le projet est développé en C++ et il n'y a pas d'interface graphique.
 
 ## Jeu
 
-Au début du serveur, vous pouvez choisir de prendre un mot :</br>
+Au lancement du serveur, vous pouvez choisir de prendre un mot :</br>
 1 - De difficulté facile : Mot de - de 5 lettres différentes</br>
 2 - De difficulté moyenne : Mot de - de 7 lettres différentes</br>
 3 - De difficulté difficile : Mot de - de 10 lettres différentes</br>
